@@ -1,0 +1,21 @@
+﻿
+
+Application qui permet de faciliter la gestion des 
+étudiant. Chaque  etudiant possede un nom, email et une 
+photo. 
+Authentification:
+Chaque  etudiant a le droit de se connecter en entrant son nom 
+et son mot de passe mais ne peut pas faire de modification.
+Seul l'administrateur admin possède ce droit.
+ 
+Barre de recherche:
+Une barre de recherche à été ajoutée, elle de retrouver 
+un etudiant ou liste d'étudiant par mot clé.
+
+Langages et technologies utilisés:
+
+PHP, MYSQL, BOOTSTRAP, JAVASCRIPT.
+
+ 
+  
+  
